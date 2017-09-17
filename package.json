@@ -1,0 +1,7 @@
+{
+  "name": "first-vue",
+  "version": "1.0.0",
+  "dependencies": {
+    "vue": "2.4.4"
+  }
+}
